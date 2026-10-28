@@ -17,11 +17,11 @@ Buses
 
 Menu
 
-<img width="195" height="422" alt="menu1" src="https://github.com/user-attachments/assets/845ab2df-9820-467a-bde9-ab91b39b9fa4" />
+<img width="293" height="633" alt="menu1" src="https://github.com/user-attachments/assets/845ab2df-9820-467a-bde9-ab91b39b9fa4" />
 
-<img width="195" height="422" alt="Menu2" src="https://github.com/user-attachments/assets/c16aa639-8ae0-4981-9e9a-95ace46e15f8" />
+<img width="293" height="633" alt="Menu2" src="https://github.com/user-attachments/assets/c16aa639-8ae0-4981-9e9a-95ace46e15f8" />
 
-<img width="195" height="422" alt="Menu3" src="https://github.com/user-attachments/assets/c2046787-76ab-4486-83b0-5661c304b0e3" />
+<img width="293" height="633" alt="Menu3" src="https://github.com/user-attachments/assets/c2046787-76ab-4486-83b0-5661c304b0e3" />
 
 
 ## Installation on a web hotel
