@@ -23,6 +23,10 @@ Menu
 
 <img width="293" height="633" alt="Menu3" src="https://github.com/user-attachments/assets/c2046787-76ab-4486-83b0-5661c304b0e3" />
 
+## Speed camera detection
+
+<img width="293" height="633" alt="Speed_cam" src="https://github.com/user-attachments/assets/ffffd893-d07c-4255-b8cd-8fc76e92c1b8" />
+
 
 ## Installation on a web hotel
 Get free API keys from:
