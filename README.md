@@ -9,11 +9,11 @@ Navigation website with traffic cameras, traffic flows and extra info about plan
 ## Examples:
 Planes
 
-<img width="195" height="422" alt="planes" src="https://github.com/user-attachments/assets/4bc6017d-c21b-4010-87de-9d3e7b4602a8" />
+<img width="293" height="633" alt="planes" src="https://github.com/user-attachments/assets/4bc6017d-c21b-4010-87de-9d3e7b4602a8" />
 
 Buses
 
-<img width="195" height="422" alt="buses" src="https://github.com/user-attachments/assets/f18abc95-aa0f-4e8d-a062-f844389b627f" />
+<img width="293" height="633" alt="buses" src="https://github.com/user-attachments/assets/f18abc95-aa0f-4e8d-a062-f844389b627f" />
 
 Menu
 
