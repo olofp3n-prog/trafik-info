@@ -23,9 +23,11 @@ Menu
 
 <img width="293" height="633" alt="Menu3" src="https://github.com/user-attachments/assets/c2046787-76ab-4486-83b0-5661c304b0e3" />
 
-## Speed camera detection
+## Speed camera and Police helicopter detection
 
 <img width="293" height="633" alt="Speed_cam" src="https://github.com/user-attachments/assets/ffffd893-d07c-4255-b8cd-8fc76e92c1b8" />
+<img width="293" height="633" alt="policeinair" src="https://github.com/user-attachments/assets/7f556129-3886-4f4f-96eb-224e87b0b33e" />
+
 
 
 ## Installation on a web hotel
