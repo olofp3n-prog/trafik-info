@@ -5,3 +5,5 @@ Navigation website with traffic cameras, traffic flows and extra info about plan
 ## Installation on a web hotel
 Put you own API keys in config.php and upload to a webserver
 PHP needs cURL and GD
+
+## Created with Lovable
