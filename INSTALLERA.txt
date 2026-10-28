@@ -1,0 +1,29 @@
+Trafik & Info – Loopia Version 136, komplett installationspaket
+
+Uppdatering: ladda upp alla filer UTOM config.php till /traffic/.
+Behåll alltid din befintliga config.php med dina privata API-nycklar.
+Paketets config.php är en TOM MALL för nya installationer.
+Nyinstallation: fyll i nycklarna i mallen innan uppladdning.
+PHP behöver cURL och GD för bland annat radar och moln.
+
+Följ ett flygplan och tryck på Cockpit på informationsbrickan.
+Planet har normal storlek under 100 meter och förstoras därefter med höjden.
+Markskuggan är tydligare även på hög höjd och mörka kartor.
+Flygplan och kamera glider tillsammans; positionsuppskattning stannar efter
+fem sekunder utan nya data och pausar när sidan är dold.
+Vid rapporterad landning minskar planet och möter skuggan.
+Höjden kommer från ADS-B över havet, inte exakt markhöjd; skuggan är en visuell effekt.
+Ingen ny 3D-motor, terränghämtning eller ytterligare API-anrop används.
+Kontrollera att menyn visar Version 136.
+
+Följbrickan med Cockpit ligger över namnskylten. En följd polishelikopter
+visas bara en gång och återgår direkt till bevakningslagret när följningen avslutas.
+
+Radio: manuell paus avbryter återanslutning och förblir pausad efter omladdning.
+På iPhone/iPad används telefonens eller bilens volymknappar; reglaget är dolt.
+
+Fartkameravarning: den stora röda triangeln är centrerad på skärmen även under navigation.
+
+Trafikflöde: Köer och hastigheter. Av från början; manuella val sparas.
+Navigation slår på lagret vid start och av vid avslut eller ankomst.
+Brytaren kan alltid ändras manuellt; automatiken ändrar inte det sparade valet.

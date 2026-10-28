@@ -1,0 +1,20 @@
+Loopia version 96 – lokal svensk stationsdata
+
+Uppdatera app.js och index.html, och ladda upp stations-sweden-v96.json till /traffic.
+Övriga befintliga filer är oförändrade. stations.php och station-utils.js används inte längre.
+Ingen .htaccess behövs. Den nya filen hämtas en gång per sidbesök och återanvänds
+vid kartförflyttning och filterbyten. Inga externa stations-API-anrop görs.
+
+7 208 kartlagda stationsobjekt: 3 425 drivmedelsstationer och 3 783 laddstationer.
+Källa: OpenStreetMap-bidragsgivare, Geofabrik Sweden.
+Datatidpunkt: 2026-10-19 20:21:11 UTC.
+Privata laddstationer utesluts. Okänd effekt eller drivmedel visas som okända.
+Uppgifterna är inte en komplett lista över alla stationer; OSM kan vara ofullständigt.
+Ingen liveinformation om laddarnas tillgänglighet eller priser.
+Filen uppdateras genom att ersättas med ett nytt underlag; ingen automatisk uppdatering.
+
+Databaslicens: Open Database License (ODbL) 1.0
+https://opendatacommons.org/licenses/odbl/1-0/
+https://www.openstreetmap.org/copyright
+https://download.geofabrik.de/europe/sweden.html
+Den lokala databasen följer ODbL; attribution och share-alike gäller enligt licensen.
